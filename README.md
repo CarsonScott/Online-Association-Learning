@@ -16,7 +16,7 @@ A link connects an initial node to a final node, allowing information to pass be
 
 ## Examples 
 
-The following graph displays the prediction error of a single relation between two nodes as it changes over time. As you can see, it falls dramatically as the system trains itself to make better predictions. Firing occurs every 10 iterations and alternates between the two. The relation between them is responsible for making predictions about when the next firing will occur. Errors reflect the difference between a predicted time that a firing will occur and the observed time that it does occur.
+The following graph displays the prediction error of a single relation between two nodes as it changes over time. As you can see, it falls dramatically as the system trains itself to make better predictions. Firing occurs every 10 iterations and alternates between the two. The relation between them is responsible for making predictions about when the next firing will occur. Errors reflect the difference between a predicted time that a firing will occur and the observed time that it will occur.
 
 ![Prediction Error](https://github.com/CarsonScott/Online-Relationship-Learning/blob/master/img/Prediction%20Error.PNG)
 
